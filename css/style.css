@@ -1050,3 +1050,11 @@ input[type="text"] {
 
 .js .animate-box {
   opacity: 0; }
+
+.ex-container {
+  padding: 0 5% !important; }
+
+.experience__se {
+  list-style-type: square; }
+  .experience__se ul {
+    list-style-type: disc; }

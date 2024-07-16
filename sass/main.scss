@@ -1295,3 +1295,17 @@ input[type="text"] {
     opacity: 0;
   }
 }
+
+//Custom styles by gimhana
+
+.ex-container {
+  padding: 0 5% !important;
+}
+
+.experience__se {
+  list-style-type: square;
+
+  ul {
+    list-style-type: disc;
+  }
+}
